@@ -1,5 +1,5 @@
-# Parkinson's Disease UPDRS Score Prediction
-## <div align="left">![Intro](images/park.png)
+## <div align="center">Parkinson's Disease UPDRS Score Prediction
+## <div align="center">![Intro](images/park.png)
 
 This repository contains the code and data used to predict the Unified Parkinson’s Disease Rating Scale (UPDRS) scores based on voice features. The project aims to compare the performance of various regression models in predicting UPDRS scores and determine the best model for this task.
 
